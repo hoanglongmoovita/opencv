@@ -24,3 +24,5 @@ bin/
 build
 node_modules
 CMakeSettings.json
+
+build_*
